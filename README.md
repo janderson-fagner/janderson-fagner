@@ -91,16 +91,27 @@ Quase **uma década** depois, virou uma software house que projeta e desenvolve 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=janderson-fagner&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=D42440&icon_color=D42440&text_color=808080&bg_color=00000000" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janderson-fagner&layout=compact&hide_border=true&langs_count=8&title_color=D42440&text_color=808080&bg_color=00000000" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=janderson-fagner&hide_border=true&background=00000000&stroke=808080&ring=D42440&fire=D42440&currStreakLabel=D42440&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&titleColor=D42440" alt="Sequência de contribuições" />
 
-<br />
+<br /><br />
 
-<img src="https://streak-stats.demolab.com?user=janderson-fagner&hide_border=true&background=00000000&stroke=808080&ring=D42440&fire=D42440&currStreakLabel=D42440&currStreakNum=808080&sideNums=808080&sideLabels=808080&dates=808080&titleColor=D42440" alt="Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janderson-fagner&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=janderson-fagner&theme=default" alt="Repositórios por linguagem" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janderson-fagner&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=janderson-fagner&theme=default" alt="Linguagens mais usadas em commits" />
+</picture>
 
-<br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=janderson-fagner&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janderson-fagner&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=janderson-fagner&theme=default" alt="Estatísticas gerais" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janderson-fagner&utcOffset=-3&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=janderson-fagner&utcOffset=-3&theme=default" alt="Horários mais produtivos" />
+</picture>
 
 </div>
 
