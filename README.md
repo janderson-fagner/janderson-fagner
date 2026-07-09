@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D42440&height=130&section=header" width="100%" alt="" />
 
-<img src="./assets/logo-glow.svg" width="165" alt="A23 Tech" />
+<img src="./assets/logo-glow.svg" width="120" alt="A23 Tech" />
 
 <br />
 
