@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D42440&height=200&section=header&text=A23%20Tech&fontColor=ffffff&fontSize=72&fontAlignY=36&desc=Da%20ideia%20acesa%20ao%20sistema%20rodando&descAlign=50&descAlignY=58&descSize=18" width="100%" alt="A23 Tech" />
-
-<a href="https://github.com/janderson-fagner">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D42440&center=true&vCenter=true&width=620&lines=Desenvolvedor+Full+Stack+h%C3%A1+10%2B+anos;Fundador+da+A23+Tech;Sistemas%2C+sites+e+automa%C3%A7%C3%B5es+sob+medida;Node.js+%C2%B7+Nuxt+%C2%B7+Vue+%C2%B7+PHP+%C2%B7+Python" alt="Typing SVG" />
-</a>
+<img src="./assets/lamp.svg" width="140" alt="Lâmpada da A23 acendendo" />
 
 <br />
+
+<a href="https://github.com/janderson-fagner">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=44&duration=2500&pause=1000&color=D42440&center=true&vCenter=true&width=500&height=85&lines=A23+Tech" alt="A23 Tech" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=20&duration=3200&pause=700&color=808080&center=true&vCenter=true&width=640&height=45&lines=Da+ideia+acesa+ao+sistema+rodando;Sistemas+%C2%B7+Sites+%C2%B7+Automa%C3%A7%C3%B5es+sob+medida;Fundador+da+A23+Tech+%C2%B7+Full+Stack+h%C3%A1+10%2B+anos" alt="Sistemas, sites e automações sob medida" />
+
+<br /><br />
 
 <img src="https://komarev.com/ghpvc/?username=janderson-fagner&color=D42440&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 
