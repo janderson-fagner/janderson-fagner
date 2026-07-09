@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="10 430 760 1030" width="200" height="271" role="img" aria-label="Lâmpada da A23 Tech">
+  <defs>
+    <linearGradient id="grad" x1="33.6" y1="936.1" x2="747.6" y2="936.1" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff2b42"/>
+      <stop offset=".9" stop-color="#e91c32"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+    <path id="a" d="M643.1,553.7c69.7,66.3,104.5,148.8,104.5,247.3v328.3h-193v-49.7c-58,47.4-123.3,71.1-195.9,71.1s-165.4-34.1-229.3-102.3c-63.8-68.2-95.8-150.6-95.8-247.3s35.3-180,105.9-247.3c69.7-68.2,153.3-102.3,251-102.3s182.8,34.1,252.5,102.3ZM274.5,914.7c31.9,31.3,70.6,46.9,116.1,46.9s84.2-15.6,116.1-46.9c31.9-31.3,47.9-69.1,47.9-113.7s-16-82.4-47.9-113.7c-31.9-31.3-70.6-46.9-116.1-46.9s-84.2,15.6-116.1,46.9c-31.9,31.3-47.9,69.2-47.9,113.7s16,82.4,47.9,113.7ZM534.7,1218.2H250.3v44.6h284.4v-44.6ZM534.7,1290.1H250.3v44.6h284.4v-44.6ZM508.2,1363.7h-231.5l49.6,57h136.4l45.5-57Z"/>
+  </defs>
+
+  <!-- brilho que respira, com o formato exato da lâmpada da marca -->
+  <use href="#a" fill="#ff2b42" filter="url(#glow)">
+    <animate attributeName="opacity" dur="3s" repeatCount="indefinite"
+      keyTimes="0;0.5;1" values="0.15;0.7;0.15" calcMode="spline"
+      keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+  </use>
+
+  <!-- lâmpada da logo (gradiente original) -->
+  <use href="#a" fill="url(#grad)"/>
+</svg>

@@ -1,11 +1,16 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.png" />
-  <img src="./assets/logo-white.png" width="380" alt="A23 Tech" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D42440&height=130&section=header" width="100%" alt="" />
 
-### Da ideia acesa ao sistema rodando.
+<img src="./assets/logo-glow.svg" width="165" alt="A23 Tech" />
+
+<br />
+
+<a href="https://github.com/janderson-fagner">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=700&size=40&duration=2500&pause=1000&color=D42440&center=true&vCenter=true&width=460&height=75&lines=A23+Tech" alt="A23 Tech" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Comfortaa&weight=600&size=19&duration=3200&pause=700&color=808080&center=true&vCenter=true&width=640&height=42&lines=Da+ideia+acesa+ao+sistema+rodando;Sistemas+%C2%B7+Sites+%C2%B7+Automa%C3%A7%C3%B5es+sob+medida;Fundador+da+A23+Tech+%C2%B7+Full+Stack+h%C3%A1+10%2B+anos" alt="Sistemas, sites e automações sob medida" />
 
 </div>
 
